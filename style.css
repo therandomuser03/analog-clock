@@ -1,0 +1,78 @@
+body {
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media (max-width: 480px) {
+    body {
+        background-image: url(./bg_photo.jpg);
+   }
+}
+@media (min-width: 481px) and (max-width: 1024px) {
+    body {
+        background-image: url(./bg_photo.jpg);
+   }
+}
+@media (min-width: 1025px) {
+    body {
+        background-image: url(./bg_photo.jpg);
+   }
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 50px;
+    box-shadow: 0 8px 32px 0 rgba(46, 46, 49, 0.3);
+    color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+
+
+#clockContainer{
+    position: relative;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    background-image: url(./analog_img.png);
+    background-size: 100%;
+}
+
+#hour, #minute, #second{
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour{
+    width: 4px;
+    height: 56px;
+    top: 32%;
+    left: 49.2%;
+    opacity: 0.8;
+
+}
+
+#minute{
+    width: 2px;
+    height: 95px;
+    top: 19%;
+    left: 49.5%;
+    opacity: 0.8;
+}
+
+#second{
+    width: 1px;
+    height: 99px;
+    top: 17.5%;
+    left: 49.5%;
+    opacity: 0.8;
+    background-color: red;
+}
+
