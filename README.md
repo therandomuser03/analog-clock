@@ -8,7 +8,7 @@ Also, this is my first try to fix the resolution of the background image so that
 
 ## Screenshots
 
-![Screenshot for PC](//ss%20for%20readme/for%20pc.png/450x253?text=Screenshot+for+PC)
+![Screenshot for PC](//ss%20for%20readme/for%20pc.png)
 
 ![Screenshot for Mobile](//ss%20for%20readme/for%20mobile.png/230x512?text=Screenshot+for+Mobile)
 
