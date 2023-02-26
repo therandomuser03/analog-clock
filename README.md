@@ -8,7 +8,7 @@ Also, this is my first try to fix the resolution of the background image so that
 
 ## Screenshots
 
-![Screenshot for PC](https://github.com/therandomuser03/analog_clock/blob/main/ss%20for%20readme/for%20pc.png)
+![Screenshot for PC](https://github.com/therandomuser03/analog_clock/blob/main/ss%20for%20readme/for%20pc.png =450x253)
 
 ![Screenshot for Mobile](https://github.com/therandomuser03/analog_clock/blob/main/ss%20for%20readme/for%20mobile.png)
 
