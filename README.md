@@ -8,9 +8,9 @@ Also, this is my first try to fix the resolution of the background image so that
 
 ## Screenshots
 
-<img src="https://github.com/therandomuser03/analog_clock/blob/main/ss%20for%20readme/for%20pc.png" width="480" height="270">
+<img src="https://github.com/therandomuser03/analog-clock/blob/main/ss%20for%20readme/for%20pc.png" width="480" height="270">
 
-<img src="https://github.com/therandomuser03/analog_clock/blob/main/ss%20for%20readme/for%20mobile.png" width="246" height="550">
+<img src="https://github.com/therandomuser03/analog-clock/blob/main/ss%20for%20readme/for%20mobile.png" width="246" height="550">
 
 
 
