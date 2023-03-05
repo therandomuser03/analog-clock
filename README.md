@@ -1,5 +1,5 @@
 
-# Analog Clock using HTML, CSS & JavaScript
+# Analog Clock
 
 My first attempt to seperate the HTML, CSS and JavaScript codes to build an analog clock along with the use of CSS Glassmorphism Card effect
 
