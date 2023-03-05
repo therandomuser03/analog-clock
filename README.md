@@ -1,9 +1,9 @@
 
 # Analog Clock using HTML, CSS & JavaScript
 
-My first project to seperate the HTML, CSS and JavaScript codes to build an analog clock along with the use of CSS Glassmorphism Card effect
+My first attempt to seperate the HTML, CSS and JavaScript codes to build an analog clock along with the use of CSS Glassmorphism Card effect
 
-Also, this is my first try to fix the resolution of the background image so that both the users (PC & Mobile) can view this page properly
+Also, this is my first try to fix the resolution of the background image so that both the PC & Mobile users can view this page properly
 
 
 ## Screenshots
